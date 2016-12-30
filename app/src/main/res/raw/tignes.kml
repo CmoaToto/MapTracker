@@ -1,0 +1,1357 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Tignes</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>POI Bottom</name>
+			<Placemark>
+				<name>B001</name>
+				<description><![CDATA[Tignes les Brévières 1550<br>Start TC Sache<br>Start TK Pitots<br>Start TS Brevières<br>End R Pavots<br>End B Pitots<br>E B Myrtilles]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9209361,45.5063469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B002</name>
+				<description><![CDATA[Tignes les Boisses 1850<br>Start TC Boisses<br>End B Mélèzes]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9235191,45.4981242,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B003</name>
+				<description><![CDATA[Start TS Marais<br>End R Myosotis<br>End N Silène<br>End B Airelle]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9154108,45.4888924,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B004</name>
+				<description><![CDATA[Start TS Aiguille Rouge<br>Intersection B Airelle<br>End jonction T003 B004]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9146061,45.4884787,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B005</name>
+				<description><![CDATA[Start TS Chaudannes<br>Start TS Paquis<br>End R Bleuets<br>End V Lavachet<br>Jonction Lac]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9107437,45.472245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B006</name>
+				<description><![CDATA[Start TS Aiguille Percée<br>End R Cyclamen<br>End B Bruyères<br>End R Ancolie<br>End B Perce-neige<br>Start B Anémone 2]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8861103,45.47545,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B007</name>
+				<description><![CDATA[Start TS Almes<br>Intersection Almes]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9067097,45.4701233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B008</name>
+				<description><![CDATA[Start TK 3500<br>Start R 3500-Leisse<br>End R 3500]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8898547,45.4127543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B009</name>
+				<description><![CDATA[Start TK Champagny<br>Start TS Panoramic<br>Intersection R Glacier<br>Intersection B Rosolin]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8879288,45.4212003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B010</name>
+				<description><![CDATA[Start TK Chardonnet<br>End B Anémone]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9021499,45.4679865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B011</name>
+				<description><![CDATA[Start TK Claret<br>Start TS Tufs]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9010234,45.4546783,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B012</name>
+				<description><![CDATA[Start TS Col des Vés<br>Start TK Col de Palet<br>Start TS Grattalu]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8820977,45.4518221,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B013</name>
+				<description><![CDATA[Start TK Combe Folle]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9136512,45.4627795,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B014</name>
+				<description><![CDATA[Start TS Grand Huit]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8857241,45.4664816,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B015</name>
+				<description><![CDATA[Start TPH Grande Motte<br>End TS Leisse<br>End TS Panoramic]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.890831,45.4235159,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B016</name>
+				<description><![CDATA[Start TS Les Lanches]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8978798,45.4520705,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B017</name>
+				<description><![CDATA[Start TK Lavachet]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9111997,45.470808,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B018</name>
+				<description><![CDATA[Start TS Leisse]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8983841,45.4191332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B019</name>
+				<description><![CDATA[Start TS Merles]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8882561,45.4674447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B020</name>
+				<description><![CDATA[Start TK Millonex<br>Start TS Palafour]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9062859,45.4692129,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B021</name>
+				<description><![CDATA[Start TK Rosolin]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8853164,45.4278983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B022</name>
+				<description><![CDATA[Start TS Tichot]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8967962,45.4540951,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B023</name>
+				<description><![CDATA[Start TS Tommeuses]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9408649,45.4592182,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B024</name>
+				<description><![CDATA[Start TC Tovière]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.9071281,45.4683025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B025</name>
+				<description><![CDATA[Start TS Vanoise]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8995428,45.4316027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B026</name>
+				<description><![CDATA[Start TS Bollin<br>Start TS Fresse]]></description>
+				<styleUrl>#icon-1586-558B2F</styleUrl>
+				<Point>
+					<coordinates>6.8984914,45.4529812,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>POI Top</name>
+			<Placemark>
+				<name>T001</name>
+				<description><![CDATA[End TK Pitots<br>Start B Pitots]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9193697,45.5036682,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T002</name>
+				<description><![CDATA[End TS Brévières<br>Start B Myrtilles]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9223845,45.4964584,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T003</name>
+				<description><![CDATA[End TC Sache<br>End TC Boisses<br>End B Rhododendron<br>Start jonction T003 B004]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9148529,45.4903365,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T004</name>
+				<description><![CDATA[End TS Aiguille Rouge<br>End B Corniche<br>Start R Myosotis<br>Start R Bleuet]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9039094,45.4841161,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T005</name>
+				<description><![CDATA[End TS Chaudannes<br>Intersection R Bleuets<br>Start B Rhododendron<br>Start Free Épilobes]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9059265,45.4820851,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T006</name>
+				<description><![CDATA[End TS Marais<br>End TS Aiguille Percée<br>Start B Corniche<br>Start R Cyclamen]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8888837,45.4843455,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T007</name>
+				<description><![CDATA[End TS Almes<br>Start B Almes]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9012702,45.4731177,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T008</name>
+				<description><![CDATA[End TK 3500<br>Start R 3500<br>Intersection R Grande-Motte-Champagny]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8798769,45.4105399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T009</name>
+				<description><![CDATA[End TK Champagny<br>Start R Glacier<br>Intersection N Descente]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8821621,45.4147576,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T010</name>
+				<description><![CDATA[End TK Chardonnet<br>Intersection B Anémone]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8915713,45.4696267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T011</name>
+				<description><![CDATA[End TK Claret]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9040382,45.4539107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T012</name>
+				<description><![CDATA[End TS Col des Vés]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8637085,45.4425188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T013</name>
+				<description><![CDATA[End TK Col de Palet]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8644971,45.4534403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T014</name>
+				<description><![CDATA[End TS Grattalu]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.870296,45.4613196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T015</name>
+				<description><![CDATA[End TK Combe Folle]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9227386,45.45846,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T016</name>
+				<description><![CDATA[End TS Grand Huit]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8788362,45.4723052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T017</name>
+				<description><![CDATA[End TPH Grande Motte]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8745232,45.41353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T018</name>
+				<description><![CDATA[End TS Les Lanches]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8973863,45.430142,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T019</name>
+				<description><![CDATA[End TK Lavachet]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9122618,45.4685846,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T020</name>
+				<description><![CDATA[End TS Merles]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8760252,45.4597694,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T021</name>
+				<description><![CDATA[End TK Millonex]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9028044,45.470334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T022</name>
+				<description><![CDATA[End TS Palafour]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8939638,45.4761722,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T023</name>
+				<description><![CDATA[End TS Paquis]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.914354,45.4582455,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T024</name>
+				<description><![CDATA[End TK Rosolin]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8855631,45.4192988,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T025</name>
+				<description><![CDATA[End TS Tichots]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.8826771,45.4552992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T026</name>
+				<description><![CDATA[End TS Tommeuses]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9202709,45.4556454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T027</name>
+				<description><![CDATA[End TS Bollin]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.9056153,45.4511598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>T028</name>
+				<description><![CDATA[End TS Fresse]]></description>
+				<styleUrl>#icon-1586-A52714</styleUrl>
+				<Point>
+					<coordinates>6.925807,45.4420972,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>POI Intersections</name>
+			<Placemark>
+				<name>I001</name>
+				<description><![CDATA[Mélèzes<br>Myrtilles]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.921494,45.4971277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I002</name>
+				<description><![CDATA[Myrtilles<br>Pavot]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9183505,45.5029331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I003</name>
+				<description><![CDATA[Pavot<br>Chardon]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9156897,45.4989702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I004</name>
+				<description><![CDATA[Pavot<br>Sache]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9153571,45.5018879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I005</name>
+				<description><![CDATA[Mélèzes<br>Chardons]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9142413,45.4914646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I006</name>
+				<description><![CDATA[Arcosses<br>Chardons]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9148421,45.493217,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I007</name>
+				<description><![CDATA[Chardons<br>Mélèzes 2]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9182539,45.498707,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I008</name>
+				<description><![CDATA[Rhododendron<br>Mélèzes]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9137532,45.4905546,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I009</name>
+				<description><![CDATA[Mélèzes<br>Mélèzes 2]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9194663,45.4968871,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I010</name>
+				<description><![CDATA[Mélèzes<br>Mélèzes 2]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9207752,45.4973609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I011</name>
+				<description><![CDATA[Sache<br>Arcosses]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9067955,45.498707,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I012</name>
+				<description><![CDATA[Corniche<br>Sache]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.8955517,45.4843568,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I013</name>
+				<description><![CDATA[Rhododendron<br>Petit col]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9113231,45.4837851,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I014</name>
+				<description><![CDATA[Rhododendron<br>Myosotis]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9117951,45.4879372,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I015</name>
+				<description><![CDATA[Rhododendron<br>Silène]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9122887,45.488599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I016</name>
+				<description><![CDATA[Petit col<br>Épilobe<br>Bleuets]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9088125,45.476759,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I017</name>
+				<description><![CDATA[Petit col<br>Almes]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9086409,45.4760518,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I018</name>
+				<description><![CDATA[Corniche<br>Silène]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.8973219,45.4848984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I019</name>
+				<description><![CDATA[Bleuets<br>Almes]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.9100785,45.4743967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I020</name>
+				<description><![CDATA[Cyclamen<br>Bruyères]]></description>
+				<styleUrl>#icon-1898-757575</styleUrl>
+				<Point>
+					<coordinates>6.8868184,45.4797381,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Pistes</name>
+			<Placemark>
+				<name>Pitots</name>
+				<description><![CDATA[B<br>T001<br>B001]]></description>
+				<styleUrl>#line-01579B-7</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9193697,45.5036682,0.0 6.9209361,45.5063469,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Myrtilles</name>
+				<description><![CDATA[B<br>T002<br>I001<br>I002<br>B001]]></description>
+				<styleUrl>#line-01579B-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9223845,45.4964584,0.0 6.921494,45.4971277,0.0 6.9226206,45.4986468,0.0 6.9237578,45.4984513,0.0 6.924144,45.4988724,0.0 6.9236398,45.4986694,0.0 6.9215047,45.499662,0.0 6.923511,45.4993011,0.0 6.92011,45.5008802,0.0 6.9183505,45.5029331,0.0 6.9227171,45.5009028,0.0 6.9229209,45.502121,0.0 6.9207644,45.5030384,0.0 6.9203889,45.5044746,0.0 6.9219553,45.5032941,0.0 6.9219446,45.5043468,0.0 6.9209361,45.5063469,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Pavot</name>
+				<description><![CDATA[R<br>I003<br>I004<br>I002<br>B001]]></description>
+				<styleUrl>#line-A52714-6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9156897,45.4989702,0.0 6.9160223,45.5004291,0.0 6.9153571,45.5018879,0.0 6.9177067,45.501933,0.0 6.9183505,45.5029331,0.0 6.9209361,45.5063469,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Chardons</name>
+				<description><![CDATA[R<br>I005<br>I006<br>I003<br>I007]]></description>
+				<styleUrl>#line-A52714-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9142413,45.4914646,0.0 6.9148421,45.493217,0.0 6.9160652,45.493029,0.0 6.9160974,45.4936457,0.0 6.9175887,45.4933675,0.0 6.9175458,45.4942023,0.0 6.9156897,45.4989702,0.0 6.9182539,45.498707,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Mélèzes</name>
+				<description><![CDATA[B<br>T003<br>I008<br>I005<br>I009<br>I010<br>I001<br>B002]]></description>
+				<styleUrl>#line-01579B-6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9148529,45.4903365,0.0 6.9137532,45.4905546,0.0 6.9142413,45.4914646,0.0 6.9168162,45.4918407,0.0 6.9197559,45.4887871,0.0 6.9224489,45.4905471,0.0 6.9194663,45.4968871,0.0 6.9207752,45.4973609,0.0 6.921494,45.4971277,0.0 6.9235191,45.4981242,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Mélèzes 2</name>
+				<description><![CDATA[B<br>I009<br>I007<br>I010]]></description>
+				<styleUrl>#line-01579B-7</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9194663,45.4968871,0.0 6.9182539,45.498707,0.0 6.9188869,45.4988047,0.0 6.9207752,45.4973609,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Arcosses</name>
+				<description><![CDATA[R<br>I011<br>I006]]></description>
+				<styleUrl>#line-A52714-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9067955,45.498707,0.0 6.9131255,45.497955,0.0 6.9148421,45.493217,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Sache</name>
+				<description><![CDATA[N<br>I012<br>I011<br>I004]]></description>
+				<styleUrl>#line-000000-7</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8955517,45.4843568,0.0 6.8967962,45.4880575,0.0 6.899457,45.4902989,0.0 6.8997359,45.4942248,0.0 6.9067955,45.498707,0.0 6.9119024,45.501745,0.0 6.9153571,45.5018879,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Rhododendron</name>
+				<description><![CDATA[B<br>T005<br>I013<br>I014<br>I015<br>I008]]></description>
+				<styleUrl>#line-01579B-6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9059265,45.4820851,0.0 6.9081259,45.4837701,0.0 6.9113231,45.4837851,0.0 6.9117951,45.4879372,0.0 6.9122887,45.488599,0.0 6.9137532,45.4905546,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Petit col</name>
+				<description><![CDATA[B<br>I013<br>I016<br>I017]]></description>
+				<styleUrl>#line-01579B-6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9113231,45.4837851,0.0 6.909821,45.4781131,0.0 6.9088125,45.476759,0.0 6.9086409,45.4760518,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Silène</name>
+				<description><![CDATA[N<br>I018<br>I015<br>B003]]></description>
+				<styleUrl>#line-000000-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8973219,45.4848984,0.0 6.8988776,45.4862448,0.0 6.9026113,45.4877867,0.0 6.9054866,45.4880725,0.0 6.9087267,45.4877566,0.0 6.9122887,45.488599,0.0 6.9154108,45.4888924,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Myosotis</name>
+				<description><![CDATA[R<br>T004<br>I014<br>B004<br>B003]]></description>
+				<styleUrl>#line-A52714-7</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9039094,45.4841161,0.0 6.9044888,45.4849811,0.0 6.9067526,45.4856167,0.0 6.9083512,45.4866133,0.0 6.9117951,45.4879372,0.0 6.9146061,45.4884787,0.0 6.9154108,45.4888924,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Bleuets</name>
+				<description><![CDATA[R<br>T004<br>I016<br>I019]]></description>
+				<styleUrl>#line-A52714-7</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9039094,45.4841161,0.0 6.9051003,45.4827771,0.0 6.9053149,45.4810319,0.0 6.9071442,45.4799035,0.0 6.9069671,45.4787902,0.0 6.9079864,45.4778385,0.0 6.9080615,45.476586,0.0 6.9088125,45.476759,0.0 6.9117951,45.4757961,0.0 6.9100785,45.4743967,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Corniche</name>
+				<description><![CDATA[B<br>T006<br>I012<br>I018<br>T004]]></description>
+				<styleUrl>#line-01579B-6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8888837,45.4843455,0.0 6.8927407,45.4842063,0.0 6.8940496,45.4847329,0.0 6.8955517,45.4843568,0.0 6.8973219,45.4848984,0.0 6.9013882,45.4860718,0.0 6.9039094,45.4841161,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Épilobe</name>
+				<description><![CDATA[ND<br>T005<br>I016]]></description>
+				<styleUrl>#line-757575-7</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9059265,45.4820851,0.0 6.90804,45.4807461,0.0 6.9086194,45.4793017,0.0 6.9084477,45.4778574,0.0 6.9088125,45.476759,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cyclamen</name>
+				<description><![CDATA[R<br>T006<br>I020<br>B006]]></description>
+				<styleUrl>#line-A52714-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8888837,45.4843455,0.0 6.8879128,45.4846877,0.0 6.8874192,45.4834541,0.0 6.8876123,45.4817992,0.0 6.8868184,45.4797381,0.0 6.8860245,45.4768342,0.0 6.8861103,45.47545,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Bruyères</name>
+				<description><![CDATA[B<br>I020<br>B006]]></description>
+				<styleUrl>#line-01579B-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8868184,45.4797381,0.0 6.8889856,45.4775715,0.0 6.8875694,45.4760669,0.0 6.8861103,45.47545,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Almes</name>
+				<description><![CDATA[B<br>T007<br>I017<br>I019<br>B007<br>B008]]></description>
+				<styleUrl>#line-01579B-6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9012702,45.4731177,0.0 6.9039202,45.4740958,0.0 6.9045424,45.4748933,0.0 6.9074285,45.4760293,0.0 6.9086409,45.4760518,0.0 6.910497,45.4753522,0.0 6.9100785,45.4743967,0.0 6.9091773,45.4736444,0.0 6.9059479,45.4723654,0.0 6.9056261,45.4711691,0.0 6.9067097,45.4701233,0.0 6.9063556,45.469243,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Jonction T003 B004</name>
+				<description><![CDATA[B<br>T003<br>B004]]></description>
+				<styleUrl>#line-01579B-6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9148529,45.4903365,0.0 6.9146061,45.4884787,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Remontées</name>
+			<Placemark>
+				<name>TK 3500</name>
+				<description><![CDATA[B008<br>T008]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8898547,45.4127543,0.0 6.8798769,45.4105399,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Aiguille Percée</name>
+				<description><![CDATA[B006<br>T006]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8861103,45.47545,0.0 6.8888837,45.4843455,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Aiguille Rouge
+</name>
+				<description><![CDATA[B004<br>T004]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9146061,45.4884787,0.0 6.9039094,45.4841161,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Almes</name>
+				<description><![CDATA[B007<br>T007]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9067097,45.4701233,0.0 6.9012702,45.4731177,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TC Boisses</name>
+				<description><![CDATA[B002<br>T003]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9235191,45.4981242,0.0 6.9148529,45.4903365,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Bollin</name>
+				<description><![CDATA[B026<br>T027]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8984914,45.4529812,0.0 6.9056153,45.4511598,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Brevières</name>
+				<description><![CDATA[B001<br>T002]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9209361,45.5063469,0.0 6.9223845,45.4964584,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Champagny</name>
+				<description><![CDATA[B009<br>T009]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8879771,45.4209254,0.0 6.8821621,45.4147576,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Chardonnet</name>
+				<description><![CDATA[B010<br>T010]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9021499,45.4679865,0.0 6.8996823,45.4689119,0.0 6.8915713,45.4696267,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Chaudannes</name>
+				<description><![CDATA[B005<br>T005]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9107437,45.472245,0.0 6.9059265,45.4820851,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Claret</name>
+				<description><![CDATA[B011<br>T011]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9010234,45.4546783,0.0 6.9040382,45.4539107,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Col des Vés</name>
+				<description><![CDATA[B012<br>T012]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8820977,45.4518221,0.0 6.8637085,45.4425188,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Col de Palet</name>
+				<description><![CDATA[B012<br>T013]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8820977,45.4518221,0.0 6.871798,45.4534102,0.0 6.8644971,45.4534403,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Combe Folle</name>
+				<description><![CDATA[B013<br>T015]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9136512,45.4627795,0.0 6.9227386,45.45846,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Fresse</name>
+				<description><![CDATA[B026<br>T028]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8984914,45.4529812,0.0 6.9056153,45.4511598,0.0 6.925807,45.4420972,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Grand Huit</name>
+				<description><![CDATA[B014<br>T016]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8857241,45.4664816,0.0 6.8788362,45.4723052,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TF Grande Motte</name>
+				<description><![CDATA[B015<br>T017]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.890831,45.4235159,0.0 6.8745232,45.41353,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>F Grande Motte</name>
+				<description><![CDATA[B016<br>B015]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8978798,45.4520705,0.0 6.9036198,45.4333946,0.0 6.890831,45.4235159,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Grattalu</name>
+				<description><![CDATA[B012<br>T014]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8820977,45.4518221,0.0 6.870296,45.4613196,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Les Lanches</name>
+				<description><![CDATA[B016<br>T018]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8978798,45.4520705,0.0 6.8973863,45.430142,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Lavachet</name>
+				<description><![CDATA[B017<br>T019]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9111997,45.470808,0.0 6.9122618,45.4685846,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Leisse</name>
+				<description><![CDATA[B018<br>B015]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8983841,45.4191332,0.0 6.890831,45.4235159,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Marais</name>
+				<description><![CDATA[B003<br>T006]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9154108,45.4888924,0.0 6.8888837,45.4843455,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Merles</name>
+				<description><![CDATA[B019<br>T020]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8882561,45.4674447,0.0 6.8760252,45.4597694,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Millonex</name>
+				<description><![CDATA[B020<br>T021]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9062859,45.4692129,0.0 6.9028044,45.470334,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Palafour</name>
+				<description><![CDATA[B020<br>T022]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9063556,45.469243,0.0 6.8939638,45.4761722,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Panoramic</name>
+				<description><![CDATA[B009<br>B015]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8879288,45.4212003,0.0 6.890831,45.4235159,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Paquis</name>
+				<description><![CDATA[B005<br>T023]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9107437,45.472245,0.0 6.914354,45.4582455,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Pitots</name>
+				<description><![CDATA[B001<br>T001]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9209361,45.5063469,0.0 6.9193697,45.5036682,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TK Rosolin</name>
+				<description><![CDATA[B021<br>T024]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8853164,45.4278983,0.0 6.8855631,45.4192988,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TC Sache</name>
+				<description><![CDATA[B001<br>T003]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9209361,45.5063469,0.0 6.9148529,45.4903365,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Tichots</name>
+				<description><![CDATA[B022<br>T025]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8967962,45.4540951,0.0 6.8826771,45.4552992,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Tommeuses</name>
+				<description><![CDATA[B023<br>T026]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9408649,45.4592182,0.0 6.9202709,45.4556454,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TC Tovière</name>
+				<description><![CDATA[B024<br>T026]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9071281,45.4683025,0.0 6.9202709,45.4556454,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Vanoise</name>
+				<description><![CDATA[B025<br>B015]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.8995428,45.4316027,0.0 6.890831,45.4235159,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>TS Tufs</name>
+				<description><![CDATA[B011<br>T026]]></description>
+				<styleUrl>#line-BDBDBD-3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>6.9010234,45.4546783,0.0 6.9202709,45.4556454,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1586-558B2F'>
+			<IconStyle>
+				<color>ff2F8B55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1586-A52714'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1898-757575'>
+			<IconStyle>
+				<color>ff757575</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-000000-5-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-000000-5-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-000000-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000000-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000000-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-000000-7-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>7</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-000000-7-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>11.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-000000-7'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000000-7-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000000-7-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-01579B-5-normal'>
+			<LineStyle>
+				<color>ff9B5701</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-01579B-5-highlight'>
+			<LineStyle>
+				<color>ff9B5701</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-01579B-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-01579B-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-01579B-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-01579B-6-normal'>
+			<LineStyle>
+				<color>ff9B5701</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-01579B-6-highlight'>
+			<LineStyle>
+				<color>ff9B5701</color>
+				<width>9.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-01579B-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-01579B-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-01579B-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-01579B-7-normal'>
+			<LineStyle>
+				<color>ff9B5701</color>
+				<width>7</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-01579B-7-highlight'>
+			<LineStyle>
+				<color>ff9B5701</color>
+				<width>11.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-01579B-7'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-01579B-7-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-01579B-7-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-757575-7-normal'>
+			<LineStyle>
+				<color>ff757575</color>
+				<width>7</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-757575-7-highlight'>
+			<LineStyle>
+				<color>ff757575</color>
+				<width>11.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-757575-7'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-757575-7-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-757575-7-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-A52714-5-normal'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A52714-5-highlight'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-A52714-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-A52714-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-A52714-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-A52714-6-normal'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A52714-6-highlight'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>9.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-A52714-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-A52714-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-A52714-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-A52714-7-normal'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>7</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A52714-7-highlight'>
+			<LineStyle>
+				<color>ff1427A5</color>
+				<width>11.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-A52714-7'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-A52714-7-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-A52714-7-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-BDBDBD-3-normal'>
+			<LineStyle>
+				<color>ffBDBDBD</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-BDBDBD-3-highlight'>
+			<LineStyle>
+				<color>ffBDBDBD</color>
+				<width>5.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-BDBDBD-3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-BDBDBD-3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-BDBDBD-3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
