@@ -2,6 +2,7 @@ package com.cmoatoto.maptracker;
 
 import android.content.DialogInterface;
 import android.content.pm.PackageManager;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
@@ -9,6 +10,8 @@ import android.support.v4.content.ContextCompat;
 import android.Manifest;
 import android.support.v4.content.PermissionChecker;
 import android.support.v7.app.AlertDialog;
+import android.util.Log;
+import android.view.View;
 
 import com.cmoatoto.maptracker.utils.PermissionManager;
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -41,6 +44,16 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
+
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // Click action
+                Log.d(mActivity.getClass().getCanonicalName(), "FAB has been clicked");
+            }
+        });
+
         mapFragment.getMapAsync(this);
     }
 
